@@ -1,9 +1,6 @@
 h1 {
     color: blue;  /* Set text color */
     font-size: 32px;  /* Set font size */
-    br {
-    margin-bottom: .200px; /* Adds space below the <br> */
-    display: block; /* Makes the <br> behave like a block element */
-    height: 1px; /* Adds height after the line break */
-    background-color: #ccc; /* Optional: adds a background color to visualize the break */
-}
+<p> {
+    color: yellow;
+    font-size: 32px;
