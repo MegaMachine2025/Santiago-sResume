@@ -1,6 +1,8 @@
 h1 {
     color: blue;  /* Set text color */
     font-size: 100px;  /* Set font size */
-<p> {
+}
+p {
     color: yellow;
     font-size: 50px;
+}
