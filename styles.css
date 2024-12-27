@@ -2,15 +2,15 @@ h1 {
     color: blue;
     text-align: center;
 }
+
+
 h3 {
+    border: 1px solid;
+    width: 300px
     color: yellow;
-    h1 {
-      text-align: justify; /* Justify the text */
-      width: 50%; /* Optional: Set a width for justification effect */
-      margin: 0 auto; /* Center the block horizontally */
-    }
 }
+
+
 body {
     background-color: black;
-   
 }
