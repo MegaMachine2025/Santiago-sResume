@@ -8,4 +8,5 @@ h3 {
 }
 body {
     background-color: black;
+    margin-right: 50px; /* Manually set the space */
 }
