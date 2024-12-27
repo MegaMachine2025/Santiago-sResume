@@ -4,9 +4,9 @@ h1 {
 }
 h3 {
     color: yellow;
-    margin-right: 200px; /* Manually set the space */
+    text-align: right 50px;
 }
 body {
     background-color: black;
-    margin-right: 2000px; /* Manually set the space */
+   
 }
